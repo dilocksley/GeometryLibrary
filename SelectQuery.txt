@@ -1,0 +1,5 @@
+select Product.Id, Product.[Name]
+from Product p
+inner join Product_relationship pr on p.Id = pr.Product_id
+inner join Categories c on c.Id = pr.Category_id
+group by p.Id, p.[Name]
