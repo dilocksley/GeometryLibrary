@@ -1,0 +1,10 @@
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\bin\Debug\netcoreapp3.1\GeometryLibrary.deps.json
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\bin\Debug\netcoreapp3.1\GeometryLibrary.dll
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\bin\Debug\netcoreapp3.1\GeometryLibrary.pdb
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.1\GeometryLibrary.csproj.AssemblyReference.cache
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.1\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.1\GeometryLibrary.AssemblyInfoInputs.cache
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.1\GeometryLibrary.AssemblyInfo.cs
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.1\GeometryLibrary.csproj.CoreCompileInputs.cache
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.1\GeometryLibrary.dll
+D:\Diana\Mindbox\GeometryLibrary\GeometryLibrary\obj\Debug\netcoreapp3.1\GeometryLibrary.pdb
